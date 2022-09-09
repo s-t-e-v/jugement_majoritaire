@@ -1,0 +1,13 @@
+09/09/2022
+
+> 17:50:
+
+I'm starting this devlog to help to get back to this project and finish it
+in the best manner.
+
+I intend:
+1. review my code
+2. then recode the application by starting the same way as the teacher
+3. review the new code and teache's solution
+4. Compare those 2 solutions and your previous one with each other and
+draw some lessons.
